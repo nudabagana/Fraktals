@@ -1,1 +1,2 @@
-Fraktals
+#Fraktals
+Just a university assignment.
